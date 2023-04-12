@@ -8,7 +8,7 @@ pipeline{
 
 					steps{
 
-						git branch: "main", url: 'https://github.com/sriramaleti9238/g1-allergy-service.git'
+						git branch: "main", url: 'https://github.com/sriramaleti9238/g1-patient-basic-info-service.git'
 
 						}
 
@@ -40,7 +40,7 @@ pipeline{
 
 						steps {
 
-							sh 'docker build -t sriramaleti9238/g1-allergy-service:latest .'
+							sh 'docker build -t sriramaleti9238/g1-patient-basicinfo-service:latest .'
 
 							}
 
@@ -60,7 +60,7 @@ pipeline{
 
 					steps {
 
-						sh 'docker push sriramaleti9238/g1-allergy-service'
+						sh 'docker push sriramaleti9238/g1-patient-basicinfo-service'
 
 						}
 	
