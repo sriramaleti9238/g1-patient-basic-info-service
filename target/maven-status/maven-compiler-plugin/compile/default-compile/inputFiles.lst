@@ -1,0 +1,13 @@
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\exception\ResourceNotFoundException.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\exception\MethodArgumentTypeMismatchException.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\entity\dto\PatientDto.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\loggers\Logging.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\service\PatientInfoService.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\exception\ResponseEntityHelper.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\exception\ApiError.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\controller\PatientInfoController.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\G1PatientInfoServiceApplication.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\exception\GlobalExceptionHandler.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\serviceImpl\PatientInfoServiceImpl.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\entity\Patient.java
+C:\zServices\with-testing-all-microservices\g1-patientInfo-service\src\main\java\com\revature\repository\PatientRepository.java
