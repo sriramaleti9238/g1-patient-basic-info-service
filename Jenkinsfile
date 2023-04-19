@@ -40,7 +40,7 @@ pipeline{
 
 						steps {
 
-							sh 'docker build -t sriramaleti9238/patient-basicinfo-service:latest .'
+							sh 'sudo docker build -t sriramaleti9238/patient-basicinfo-service:latest .'
 
 							}
 
@@ -60,7 +60,7 @@ pipeline{
 
 					steps {
 
-						sh 'docker push sriramaleti9238/patient-basicinfo-service'
+						sh 'sudo docker push sriramaleti9238/patient-basicinfo-service'
 
 						}
 	
@@ -72,7 +72,7 @@ pipeline{
 
 			always {
 
-				sh 'docker logout'
+				sh 'sudo docker logout'
 
 				}
 
