@@ -1,6 +1,12 @@
 <factorypath>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-starter-consul-config/4.0.1/spring-cloud-starter-consul-config-4.0.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-starter-consul/4.0.1/spring-cloud-starter-consul-4.0.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-starter/4.0.1/spring-cloud-starter-4.0.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-context/4.0.1/spring-cloud-context-4.0.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/security/spring-security-rsa/1.0.11.RELEASE/spring-security-rsa-1.0.11.RELEASE.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/bouncycastle/bcpkix-jdk15on/1.69/bcpkix-jdk15on-1.69.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/bouncycastle/bcprov-jdk15on/1.69/bcprov-jdk15on-1.69.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/bouncycastle/bcutil-jdk15on/1.69/bcutil-jdk15on-1.69.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-consul-core/4.0.1/spring-cloud-consul-core-4.0.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/boot/spring-boot-starter-validation/3.0.4/spring-boot-starter-validation-3.0.4.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/hibernate/validator/hibernate-validator/8.0.0.Final/hibernate-validator-8.0.0.Final.jar" enabled="true" runInBatchMode="false"/>
@@ -21,17 +27,6 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/spring-context-support/6.0.6/spring-context-support-6.0.6.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/stoyanr/evictor/1.0.0/evictor-1.0.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/boot/spring-boot-configuration-processor/3.0.4/spring-boot-configuration-processor-3.0.4.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-starter-config/4.0.1/spring-cloud-starter-config-4.0.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-starter/4.0.1/spring-cloud-starter-4.0.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-context/4.0.1/spring-cloud-context-4.0.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/security/spring-security-rsa/1.0.11.RELEASE/spring-security-rsa-1.0.11.RELEASE.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/bouncycastle/bcpkix-jdk15on/1.69/bcpkix-jdk15on-1.69.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/bouncycastle/bcprov-jdk15on/1.69/bcprov-jdk15on-1.69.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/bouncycastle/bcutil-jdk15on/1.69/bcutil-jdk15on-1.69.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/springframework/cloud/spring-cloud-config-client/4.0.1/spring-cloud-config-client-4.0.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/httpcomponents/client5/httpclient5/5.1.4/httpclient5-5.1.4.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/httpcomponents/core5/httpcore5/5.1.5/httpcore5-5.1.5.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/httpcomponents/core5/httpcore5-h2/5.1.5/httpcore5-h2-5.1.5.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/mashape/unirest/unirest-java/1.4.9/unirest-java-1.4.9.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" enabled="true" runInBatchMode="false"/>

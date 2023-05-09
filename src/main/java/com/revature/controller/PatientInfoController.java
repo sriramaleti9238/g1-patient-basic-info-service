@@ -32,7 +32,7 @@ import lombok.extern.log4j.Log4j2;
 @RestController
 @Log4j2
 //@EnableDiscoveryClient
-@RequestMapping("/api/v1")
+@RequestMapping("/api/v1/patient-info")
 @CrossOrigin(origins="*")
 public class PatientInfoController {
 
